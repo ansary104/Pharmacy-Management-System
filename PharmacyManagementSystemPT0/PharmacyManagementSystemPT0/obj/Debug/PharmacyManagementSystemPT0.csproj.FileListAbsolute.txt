@@ -1,0 +1,39 @@
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\Database1.mdf
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\Database1_log.ldf
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\PharmacyManagementSystemPT0.exe.config
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\PharmacyManagementSystemPT0.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\PharmacyManagementSystemPT0.pdb
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.About.resources
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.OwnerIF.resources
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.OwnerLDB.resources
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.pdb
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\PharmacyManagementSystemPT0.exe.config
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.exe
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.pdb
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\Database1.mdf
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\Database1_log.ldf
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\PharmacyManagementSystemPT0.exe
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\PharmacyManagementSystemPT0.pdb
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.About.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.OwnerIF.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.OwnerLDB.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.Properties.Resources.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.SalesmanLDB.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.SalesmanHomePage.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.LogIn.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.Forms.Transaction.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.Forms.StockDetails.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.Forms.Billing.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\itextsharp.dll
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\itextsharp.xtra.dll
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.Forms.BillingDetails.resources
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\bin\Debug\itextsharp.xml
+C:\Users\user\Downloads\PharmacyManagementSystemPT0\PharmacyManagementSystemPT0\obj\Debug\PharmacyManagementSystemPT0.Forms.BillingDetailsSales.resources
